@@ -1,0 +1,60 @@
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.03
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.04
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.05
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.06
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test1.net
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.07
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro11.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.08
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.09
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test11.net
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.10
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test1.net
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
